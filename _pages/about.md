@@ -42,3 +42,8 @@ Lunshu CHEN is a PhD student candidate in the State Key Laboratory of Internet o
 **Conference Reviewers**
 * 5th Energy Conversion and Economics Annual Forum (ECE Forum 2025)
 * 2024 IEEE 7th Student Conference on Electric Machines and Systems (IEEE SCEMS 2024)
+
+**Journal Reviewers**
+* IEEE Transactions on Sustainable Energy [SCI, Q1] (2026)
+* IEEE Power Engineering Letters [SCI, Q1] (2026)
+* Engineering Reports [SCI, Q2] (2025-2026)
